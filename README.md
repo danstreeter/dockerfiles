@@ -11,6 +11,7 @@ Collection of lightweight and ready-to-use docker images
 * **[Jekyll](https://github.com/schickling/dockerfiles/tree/master/jekyll)** - Lightweight jekyll working environment
 * **[Latex](https://github.com/schickling/dockerfiles/tree/master/latex)** - Full texlive distribution
 * **[Mailcatcher](https://github.com/schickling/dockerfiles/tree/master/mailcatcher)** - Extra small mailcatcher image
+* **[mysql-backup-b2](https://github.com/danstreeter/dockerfiles/tree/master/mysql-backup-b2)** - Backup MySQL to B2 Cloud Storage (supports periodic backups)
 * **[mysql-backup-s3](https://github.com/schickling/dockerfiles/tree/master/mysql-backup-s3)** - Backup MySQL to S3 (supports periodic backups)
 * **[nginx-envtpl](https://github.com/schickling/dockerfiles/tree/master/nginx-envtpl)** - Nginx image with support for environment variables using [envtpl](https://github.com/andreasjansson/envtpl)
 * **[NodeJS](https://github.com/schickling/dockerfiles/tree/master/nodejs)** - Minimal NodeJS + NPM image
